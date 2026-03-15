@@ -76,7 +76,6 @@ Always check the repository’s `LICENSE` file.
 
 For business, security, or support inquiries:
 - 🌐 https://www.liquid.tech
-- 📧 support@liquid.tech
 
 For repository-specific questions, please open an issue where appropriate.
 
