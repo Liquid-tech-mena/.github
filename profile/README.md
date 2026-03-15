@@ -1,90 +1,87 @@
-# 🛡️ Liquid C2 | Cyber & Cloud Security Engineering
+# 🔐 Liquid C2 | Cyber & Cloud Security
 
-Welcome to the official GitHub organization for **Liquid C2**.
+Welcome to the official GitHub organization of **Liquid C2**.
 
-This space hosts engineering-driven security projects, automation frameworks, and tooling developed and maintained by our Cyber Security and Cloud teams.
-
----
-
-## 🚀 What We Do
-
-Liquid C2 delivers **enterprise-grade cyber security services** across cloud, network, and endpoint environments.  
-Our engineering focus spans:
-
-- 🔐 **Security Operations (SOC) & Threat Detection**
-- ⚙️ **Security Automation & Orchestration**
-- ☁️ **Cloud & Hybrid Security**
-- 🧪 **Detection Engineering & Threat Research**
-- 🛠️ **Internal Tooling & Operational Frameworks**
-
-This GitHub org is where we build, test, and evolve the technology that powers those services.
+This space showcases selected security engineering projects, tools, and research developed by our cyber and cloud security teams. Our focus is on building practical, scalable solutions that help organizations operate securely in complex digital environments.
 
 ---
 
-## 🧰 What You’ll Find Here
+## 🌍 Who We Are
 
-Repositories in this organization may include:
+Liquid C2 is a cyber and cloud security provider delivering services across enterprise, cloud, and hybrid infrastructures.  
+We work with organizations to strengthen their security posture through:
 
-- **SOC automation scripts** (PowerShell, Python, Bash)
-- **Detection & hunting content** (queries, parsers, enrichment logic)
-- **Security tooling** for IR, DFIR, and monitoring
-- **Cloud security utilities** and configuration helpers
-- **Internal frameworks & PoCs**
-- **Open-source contributions** where applicable
+- Security Operations & Monitoring
+- Threat Detection & Response
+- Cloud & Infrastructure Security
+- Security Engineering & Automation
 
-> ⚠️ Some repositories may be internal-facing or partially redacted for security reasons.
+This GitHub organization represents the **engineering side** of that work.
 
 ---
 
-## 🧠 Engineering Principles
+## 🧠 What You’ll Find Here
 
-We build with the following principles in mind:
+Public repositories may include:
 
-- ✅ **Security-first by design**
-- ✅ **Automation over manual effort**
-- ✅ **Scalable & repeatable operations**
-- ✅ **Clear documentation**
-- ✅ **Production realism (not lab-only tools)**
+- 🔎 **Detection engineering & threat research**
+- ⚙️ **Security automation and tooling**
+- 🛠️ **Incident response & DFIR utilities**
+- ☁️ **Cloud security helpers and frameworks**
+- 📚 **Reference implementations and PoCs**
+- 🌐 **Open-source contributions**
+
+Not all internal tooling is published here. Repositories are shared selectively and responsibly.
+
+---
+
+## ✅ Our Engineering Approach
+
+We believe good security engineering is:
+
+- **Practical** – built for real environments, not theory only  
+- **Automated** – reducing manual effort wherever possible  
+- **Defensible** – security-first by design  
+- **Maintainable** – readable code and clear documentation  
+- **Responsible** – shared with care and clear intent  
 
 ---
 
 ## 🤝 Contributing
 
-Contribution guidelines may differ per repository.
+We welcome constructive engagement from the community.
 
-In general:
-- Follow the repo’s `CONTRIBUTING.md` (if present)
-- Keep security considerations in mind at all times
-- Do not commit secrets, credentials, or customer data
-- Raise issues or PRs with clear context and intent
+- Please review individual repository guidelines before contributing
+- Do **not** submit sensitive data, credentials, or customer information
+- Use issues and pull requests responsibly and professionally
 
-Internal contributors should follow Liquid C2 engineering and security policies.
+Liquid C2 reserves the right to moderate contributions where necessary.
 
 ---
 
 ## 📄 Licensing
 
-Unless stated otherwise:
-- Code is provided under the license specified in each repository
-- Internal tools may not be licensed for external reuse
+Each repository defines its own license.
 
-Always check the repository’s `LICENSE` file.
+Unless stated otherwise, code is provided **as-is**, without warranty.  
+Always review the `LICENSE` file before reuse.
 
 ---
 
-## 📫 Contact & Support
+## 📫 Contact
 
-For business, security, or support inquiries:
+For security services, partnerships, or general inquiries:
+
 - 🌐 https://www.liquid.tech
 
-For repository-specific questions, please open an issue where appropriate.
+For questions related to a specific repository, please open an issue.
 
 ---
 
-## 🧭 Disclaimer
+## ⚠️ Disclaimer
 
-All tools and content are provided **as-is**.  
-Use responsibly and only in environments you are authorized to test or operate.
+All tools and content are provided for **authorized and ethical use only**.  
+Users are responsible for ensuring compliance with applicable laws, policies, and permissions.
 
 ---
 
