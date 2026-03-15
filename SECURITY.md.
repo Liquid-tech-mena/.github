@@ -1,0 +1,104 @@
+# Security Policy
+
+At **Liquid C2**, security is a core principle of how we design, build, and operate technology.  
+We appreciate the efforts of security researchers and community members who help us identify and responsibly disclose potential security issues.
+
+This document outlines how to report security vulnerabilities related to repositories in this GitHub organization.
+
+---
+
+## 🔐 Supported Scope
+
+This security policy applies to:
+
+- Public repositories owned by the **Liquid C2** GitHub organization
+- Code, scripts, and tooling published within those repositories
+
+This policy does **not** apply to:
+- Customer environments
+- Managed services, SOC platforms, or internal systems
+- Third‑party dependencies unless explicitly stated in a repository
+
+---
+
+## 🚨 Reporting a Security Vulnerability
+
+If you believe you have discovered a security vulnerability, please report it **responsibly and privately**.
+
+### ✅ How to Report
+
+- **Email:** `support@liquid.tech`
+- Include **“Security Vulnerability Disclosure”** in the subject line
+- Provide as much detail as possible:
+  - Affected repository or component
+  - Description of the issue
+  - Steps to reproduce (if applicable)
+  - Potential impact
+  - Any proof‑of‑concept code or screenshots (where safe)
+
+### ❌ Please Do Not
+
+- Open a public GitHub issue for security vulnerabilities
+- Share exploit details publicly before coordination
+- Test vulnerabilities against systems you do not own or have permission to assess
+
+---
+
+## ⏱️ Response & Handling
+
+Upon receiving a valid security report, we aim to:
+
+- Acknowledge receipt of the report
+- Assess the issue and determine impact
+- Work on remediation or mitigation as appropriate
+- Coordinate responsible disclosure when applicable
+
+Response timelines may vary depending on severity, complexity, and scope.
+
+---
+
+## 🤝 Responsible Disclosure
+
+We support and encourage **coordinated and responsible disclosure**.
+
+We ask researchers to:
+- Allow reasonable time for investigation and remediation
+- Avoid public disclosure before mitigation is available
+- Act in good faith and follow applicable laws and regulations
+
+We do **not** tolerate:
+- Social engineering, phishing, or extortion attempts
+- Denial‑of‑service testing
+- Accessing, modifying, or exfiltrating data
+
+---
+
+## 🏅 Recognition
+
+At this time, Liquid C2 does not operate a formal bug bounty program.
+
+However, we value responsible security research and may acknowledge contributions at our discretion when appropriate.
+
+---
+
+## 📄 Legal Safe Harbor
+
+We consider activities conducted in accordance with this policy to be **authorized**, provided they are:
+- Performed in good faith
+- Limited to the defined scope
+- Free from data destruction, privacy violations, or service disruption
+
+This policy does not grant immunity from legal action for activities outside these boundaries.
+
+---
+
+## 📫 Contact
+
+For security‑related concerns:
+- 📧 support@liquid.tech
+
+For non‑security issues, please use the relevant repository’s issue tracker.
+
+---
+
+**Thank you for helping keep Liquid C2 and its community secure.**
