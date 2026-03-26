@@ -79,7 +79,7 @@ Its purpose is **governance, standards, and consistency** across the organizatio
 
 Liquid C2 is a cyber and cloud security provider delivering services across security operations, threat detection, cloud security, and security engineering.
 
-- 🌍 https://www.liquid.tech
+- 🌍 https://liquid.tech
 
 ---
 
