@@ -53,9 +53,7 @@ This Code of Conduct applies to:
 
 ## Reporting
 
-If you experience or witness unacceptable behavior, please report it via:
 
-📧 support@liquid.tech
 
 All reports will be reviewed confidentially and fairly.
 
